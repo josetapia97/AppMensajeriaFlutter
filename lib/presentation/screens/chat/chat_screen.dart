@@ -19,10 +19,10 @@ class ChatScreen extends StatelessWidget {
           padding: EdgeInsets.all(4.0),
           child: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://pm1.aminoapps.com/6570/91e75f18137043dd0bf7874c9832a826a25a878a_128.jpg'),
+                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8fRFxpuy-GlaLbnudpOdCy49Bxcy8rCuEK9jrK1kfhh45vJKccf9Or_hZQVZ2AQjQ8Bo&usqp=CAU'),
           ),
         ),
-        title: const Text('Mi señor'),
+        title: const Text('Caracola Mágica'),
         centerTitle: false,
       ),
       body: _ChatView(),
@@ -47,7 +47,7 @@ class _ChatView extends StatelessWidget {
                     itemBuilder: ((context, index) {
                       final message = chatProvider.messagesList[index];
                       return (message.fromWho == FromWho.his)
-                          ? const HisMessageBubble()
+                          ? HisMessageBubble(message : message)
                           : MyMessageBubble(message: message);
                     }))),
             //caja de texto
