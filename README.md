@@ -43,7 +43,11 @@ Esta aplicación es un proyecto práctico diseñado para replicar el funcionamie
 
 Para ver una breve demostración de la aplicación en acción, mira el siguiente video: 📹
 
-[![Demo de la Caracola Mágica](https://github.com/josetapia97/AppMensajeriaFlutter/assets/101644559/aed34818-48f6-42d9-b318-3f18759dd47a)]
+
+
+https://github.com/josetapia97/AppMensajeriaFlutter/assets/101644559/8c2e2f24-4c56-40ea-b968-a2e62e8e0f7d
+
+
 
 ## Contribuciones 👏
 
