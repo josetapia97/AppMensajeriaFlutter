@@ -1,4 +1,4 @@
-# Chat de la Caracola Mágica Flutter 🪙
+# Chat de la Caracola Mágica Flutter
 
 ¡Bienvenido al Chat de la Caracola Mágica Flutter! Esta aplicación de chat se conecta a la API "yesno.wtf" para proporcionarte respuestas divertidas a tus preguntas. 🗨️
 
@@ -43,11 +43,11 @@ Esta aplicación es un proyecto práctico diseñado para replicar el funcionamie
 
 Para ver una breve demostración de la aplicación en acción, mira el siguiente video: 📹
 
-[[![Demo de la Caracola Mágica](https://github.com/josetapia97/AppMensajeriaFlutter/assets/101644559/aed34818-48f6-42d9-b318-3f18759dd47a)]
+[![Demo de la Caracola Mágica](https://github.com/josetapia97/AppMensajeriaFlutter/assets/101644559/aed34818-48f6-42d9-b318-3f18759dd47a)]
 
 ## Contribuciones 👏
 
 Si tienes ideas para mejorar este proyecto o deseas agregar nuevas características, ¡estamos abiertos a contribuciones! Siéntete libre de abrir problemas (issues) o solicitudes de extracción (pull requests) para proponer cambios. 🙌
 
-¡Gracias por utilizar el Chat de la Caracola Mágica Flutter! 🪙
+¡Gracias por utilizar el Chat de la Caracola Mágica Flutter!
 
