@@ -51,7 +51,7 @@ https://github.com/josetapia97/AppMensajeriaFlutter/assets/101644559/8c2e2f24-4c
 
 ## Contribuciones 👏
 
-Si tienes ideas para mejorar este proyecto o deseas agregar nuevas características, ¡estamos abiertos a contribuciones! Siéntete libre de abrir problemas (issues) o solicitudes de extracción (pull requests) para proponer cambios. 🙌
+Si tienes ideas para mejorar este proyecto o deseas agregar nuevas características, ¡estoy abierto a contribuciones! Siéntete libre de abrir problemas (issues) o solicitudes de extracción (pull requests) para proponer cambios. 🙌
 
 ¡Gracias por utilizar el Chat de la Caracola Mágica Flutter!
 
